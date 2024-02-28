@@ -5,7 +5,6 @@ description: "My hello world post from Hugo"
 featured_image: "/earth-from-space.jpg"
 tags: [Software, Test, Web]
 disableToC : true
-draft: true
 ---
 
-Hello world, this is my frist post from Hugo, to be published on my blog. Thanks for coming here.
+Hello world! This is my first post from Hugo, to be published on my blog. Seems like it works!
